@@ -4,7 +4,7 @@ GPIO PushButton     = GPIO( 3, INPUT );
 GPIO PushButtonLED  = GPIO( 4, OUTPUT);
 GPIO Potentiometer  = GPIO(A7, INPUT );
 GPIO LedPWM         = GPIO( 6, OUTPUT);
-GPIO StateLED       = GPIO(13, OUPUT, LOW);
+GPIO StateLED       = GPIO(13, OUTPUT, LOW);
 
 void setup() {
     
