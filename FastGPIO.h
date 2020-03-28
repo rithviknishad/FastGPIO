@@ -1,3 +1,13 @@
+/*
+Name:       FastGPIO.h
+Author:     Rithvik Nishad (github.com/rithviknishad)
+License:    GNU General Public License v3.0
+
+Description:
+    FastGPIO library allows to handle arduino GPIO pins with 
+    minimal code, and uses fast digitalRead and fast digitalWrites.
+*/
+
 #ifndef __FAST_GPIO_H
 #define __FAST_GPIO_H
 
